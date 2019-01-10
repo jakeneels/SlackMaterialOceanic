@@ -182,7 +182,7 @@ legend small { color: #949494; }
 
 .uneditable-input:focus, .uneditable-textarea:focus { border-color: rgba(130, 130, 130, 0.8); box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(130, 130, 130, 0.6); }
 
-textarea { background-color: #545454; border: 1px solid #000; color: #e6e6e6; }
+textarea { background-color: #1E272C; border: 1px solid #000; color: #e6e6e6; }
 
 textarea:focus { border-color: rgba(130, 130, 130, 0.8); box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(130, 130, 130, 0.6); }
 
