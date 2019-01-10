@@ -820,13 +820,13 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-search_autocomplete__suggestion_item--selected { background-color: #424242; }
 
-.c-search_autocomplete__suggestion_item .token { background-color: #222222; color: #e6e6e6; }
+.c-search_autocomplete__suggestion_item .token { background-color: #1e272c; color: #e6e6e6; }
 
 .c-search__input_and_close { border-bottom-color: #000; }
 
 .c-search__input_box__clear, .c-search__input_box__icon, .c-search__section_header, .c-search__input_and_close__close { color: #e6e6e6; }
 
-#msgs_overlay_div { background: #222; }
+#msgs_overlay_div { background: #263238; }
 
 #col_messages { box-shadow: inset 1px 0 0 0 #222; }
 
