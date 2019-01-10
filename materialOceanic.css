@@ -1111,13 +1111,13 @@ ts-mention { background: rgba(130, 130, 130, 0.1) !important; color: #E8F9DD !im
 .bot_label { background: #000; color: #949494; }
 
 @keyframes to-grey { 0% { color: inherit; }
-  100% { color: #949494; } }
+    100% { color: #949494; } }
 
 @keyframes fade-background-highlight { 0% { background: #545454; }
-  100% { background: transparent; } }
+    100% { background: transparent; } }
 
 @keyframes border_focus_animation { 0% { box-shadow: 0 0 4px 0.25px #545454, 0 0 0 0.5px #828282; }
-  100% { box-shadow: 0 0 4px 0 #545454, 0 0 0 0 #828282; } }
+    100% { box-shadow: 0 0 4px 0 #545454, 0 0 0 0 #828282; } }
 
 .c-message_attachment { color: #E8F9DD; }
 
@@ -3406,7 +3406,7 @@ table tr:first-child th:not(:only-of-type) { border-bottom-color: #000; }
 .enterprise_search_bar::before { color: #E8F9DD; }
 
 @keyframes color_fade { from { color: #949494; }
-  to { color: #E8F9DD; } }
+    to { color: #E8F9DD; } }
 
 .file_header .title a { color: #949494; }
 
@@ -3807,7 +3807,7 @@ table.gray_header_border tr:first-child th:not(:only-of-type) { border-bottom-co
 .legal-main a { border-bottom-color: #545454; }
 
 @media screen and (min-width: 67.8125rem) { .legal-main .c-nav--sidebar__listheader { color: #E8F9DD; }
-  .legal-main .c-nav--sidebar__listitem a.is-selected { color: #949494; } }
+    .legal-main .c-nav--sidebar__listitem a.is-selected { color: #949494; } }
 
 .legal-main .t-contains-subtle-links a:not(.c-button) { color: #E8F9DD; }
 
