@@ -1657,7 +1657,7 @@ ts-thread .new_reply_indicator .blue_dot { color: #bf360c; }
 
 #flex_contents { background: #263238; }
 
-#flex_contents .heading { background: #151515; border-bottom-color: #1E272C; color: #949494; }
+#flex_contents .heading { background: #1E272C; border-bottom-color: #1E272C; color: #949494; }
 
 #flex_contents .heading a { color: #949494; }
 
