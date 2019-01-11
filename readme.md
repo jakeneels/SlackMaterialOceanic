@@ -17,4 +17,4 @@ document.addEventListener('DOMContentLoaded', function() {
  });
 });
 ```
-IMPORTANT! You should host your own url to prevent an XSS attack on your Slack client!
+#####IMPORTANT! You should host your own url to prevent an XSS attack on your Slack client!
