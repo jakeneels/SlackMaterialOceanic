@@ -74,7 +74,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 .p-channel_sidebar__channel--im .c-presence--away { color: #949494; }
 
-.p-channel_sidebar__channel--selected, .p-channel_sidebar__link--selected { background: #B4D684 !important; }
+.p-channel_sidebar__channel--selected, .p-channel_sidebar__link--selected { /*background: #B4D684 !important;*/ }
 
 .p-channel_sidebar__channel--selected:hover, .p-channel_sidebar__link--selected:hover { background: #B4D684 !important; }
 
