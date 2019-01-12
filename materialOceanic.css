@@ -76,7 +76,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 .p-channel_sidebar__channel--selected, .p-channel_sidebar__link--selected { /*background: #B4D684 !important;*/ }
 
-.p-channel_sidebar__channel--selected:hover, .p-channel_sidebar__link--selected:hover { background: #B4D684 !important; }
+.p-channel_sidebar__channel--selected:hover, .p-channel_sidebar__link--selected:hover { /*background: #B4D684 !important;*/ }
 
 .p-channel_sidebar__channel--selected::before, .p-channel_sidebar__channel--selected:hover::before, .p-channel_sidebar__channel--selected::after, .p-channel_sidebar__channel--selected:hover::after { color: #e6e6e6; }
 
@@ -2445,7 +2445,7 @@ input[type="text"].p-emoji_picker__input:focus { border-color: #1E272C; box-shad
 
 .rxn.menu_rxn .ts_icon, .c-reaction.menu_rxn .ts_icon, .c-reaction_add.menu_rxn .ts_icon, .c-member_slug.menu_rxn .ts_icon { color: rgba(230, 230, 230, 0.25); }
 
-a.c-member_slug--mention, a.c-member_slug--mention:hover { background-color: #fff6d1; color: #1E272C; }
+a.c-member_slug--mention, a.c-member_slug--mention:hover { background-color: #1E272C; border: 1px solid #F3DF78; color: #e6e6e6; }
 
 .modal { background-color: #263238; border: 0; box-shadow: 0 1px 10px rgba(0, 0, 0, 0.5); }
 
