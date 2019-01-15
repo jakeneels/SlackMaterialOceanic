@@ -1,7 +1,7 @@
 #Material Oceanic for Slack
-Thanks to @  laCour for this solution
+![](./slackInMaterial.PNG)
 
-navigate to:
+navigate to:  
 unix: /usr/lib/slack/resources/app.asar.unpacked/src/static/  
 win : C:\Users\<User>\AppData\Local\slack\app-<version>\resources\app.asar.unpacked/src/static/  
 
@@ -17,4 +17,6 @@ document.addEventListener('DOMContentLoaded', function() {
  });
 });
 ```
+restart the slack client   
+optional select preferences>sidebar>Theme>Ochin in slack for material colored sidebar
 #####IMPORTANT! You should host your own url to prevent an XSS attack on your Slack client!
