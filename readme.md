@@ -18,5 +18,5 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 ```
 restart the slack client   
-optional select preferences>sidebar>Theme>Ochin in slack for material colored sidebar
+optional select preferences>sidebar>Theme>Ochin in slack for material colored sidebar  
 #####IMPORTANT! You should host your own url to prevent an XSS attack on your Slack client!
